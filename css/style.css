@@ -12,3 +12,13 @@
 	height: 1rem;
 	display: none;
 }
+
+.read-progress--show {
+	display: block;
+	position: fixed;
+	top: 0;
+}
+
+.wrapper-margin--add {
+	padding-top: 2rem;
+}
